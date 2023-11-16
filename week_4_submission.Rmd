@@ -1,7 +1,7 @@
 ---
 title: "Barbell Lifts Classification"
 author: "Lahiru Weerasingha"
-date: "`r Sys.Date()`"
+date: "2023-11-16"
 output:
   pdf_document: default
   keep_md: yes
