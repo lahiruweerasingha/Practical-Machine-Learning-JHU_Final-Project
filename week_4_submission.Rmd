@@ -1,6 +1,6 @@
 ---
 title: "Barbell Lifts Classification"
-author: "Lukas Kloucek"
+author: "Lahiru Weerasingha"
 date: "`r Sys.Date()`"
 output:
   pdf_document: default
